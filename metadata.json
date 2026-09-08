@@ -1,0 +1,6 @@
+{
+  "name": "Data & AI Cognitive Twin",
+  "description": "World-class 3D spatial digital twin and interactive step-by-step educational simulation of modern Enterprise Data and AI Engineering architectures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
